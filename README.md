@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Arthur 👋</h1>
 <h3 align="center">Arthur Miguel Gomes do Espírito Santo</h3>
-<h4 align="center">Estudante de ADS | Aspirante a Desenvolvedor Back-End | Java & Spring Boot</h4>
+<h4 align="center">Estudante de ADS | Desenvolvedor Back-End | Java & Spring Boot</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ArthurM1502&label=Visualizações+de+perfil&color=0e75b6&style=flat" alt="visitor badge" />
@@ -10,14 +10,13 @@
 
 ### 🚀 Sobre mim
 
-- 📍 Baseado em **Recife, Brasil**
+- 📍 Nascido em **Recife, Brasil**
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** no Senac
 - 🛠️ Formação técnica prévia pela **ETE Porto Digital**
 - 🤖 Background em **robótica**
 - 💻 Foco em me tornar **Desenvolvedor Back-End**, aplicando meu conhecimento de Java em projetos práticos
 - 📚 Seguindo um plano estruturado de estudo autodidata de Java, aplicando minha experiência prévia em C/C++ e Python
 - 🏫 Envolvido em organização estudantil e governança acadêmica
-- 🎮 Desenvolvo um jogo em **Godot** nas horas livres
 
 ---
 
@@ -45,8 +44,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
@@ -63,9 +60,6 @@ Projeto back-end desenvolvido durante evento formativo da Cesar School.
 
 #### 🗂️ Banco de Dados — Empresa/Funcionários
 Exercício acadêmico da disciplina Banco de Dados I (Senac): modelagem de uma base `Empresa`/`funcionarios`, com múltiplas consultas SQL.
-
-#### 🎮 Jogo em Godot
-Projeto pessoal de desenvolvimento de jogos, com sistemas próprios de UI e overlays de comandos.
 
 ---
 
@@ -87,7 +81,6 @@ Projeto pessoal de desenvolvimento de jogos, com sistemas próprios de UI e over
 - Consolidar minha base em **Java** e evoluir para **Spring Boot**
 - Buscar oportunidades como **Desenvolvedor Back-End** (estágio ou júnior)
 - Evoluir o **TrashLab** de conceito para produto real
-- Continuar meu projeto pessoal em **Godot**
 
 ---
 
