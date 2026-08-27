@@ -64,19 +64,6 @@ Exercício acadêmico da disciplina Banco de Dados I (Senac): modelagem de uma b
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurM1502&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurM1502&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurM1502&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
-</p>
-
----
-
 ### 🎯 Objetivos atuais
 
 - Consolidar minha base em **Java** e evoluir para **Spring Boot**
