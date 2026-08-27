@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Arthur 👋</h1>
-<h3 align="center">Arthur Miguel Gomes do Espírito Santo</h3>
+<h3 align="center">Arthur Miguel Gomes do Espirito Santo</h3>
 <h4 align="center">Estudante de ADS | Aspirante a Desenvolvedor Back-End | Java & Spring Boot</h4>
 
 <p align="center">
